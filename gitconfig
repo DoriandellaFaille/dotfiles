@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = dorian.della.faille@gmail.com
+	name = Dorian della Faille
